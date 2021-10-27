@@ -2,7 +2,7 @@
 A react To-Do List app that allows users to add, update, and delete to-do items on the list. Users can also check the about app and author for more information. Built wit ReactJS.
 
 ## Live Preview
-[https://kdlamini.github.io/react-todo-project/](https://kdlamini.github.io/react-todo-project/)
+[ https://kdlamini.github.io/react-todo-app/](https://kdlamini.github.io/react-todo-app/)
 
 ### Clone the project
 
