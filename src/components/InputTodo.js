@@ -1,4 +1,4 @@
-/* eslint-disable react/prop-types, no-alert */
+/* eslint-disable react/prop-types */
 import React, { useState } from 'react';
 import { FaPlusCircle } from 'react-icons/fa';
 
@@ -21,8 +21,6 @@ const InputTodo = (props) => {
       setInputText({
         title: '',
       });
-    } else {
-      alert('Please write item');
     }
   };
 
